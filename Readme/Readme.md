@@ -1,0 +1,3 @@
+- Trong Stack, thêm, bỏ theo bất cứ hình thức nào thì phần tử được thêm vào sau cùng thì cũng sẽ được lấy ra trước tiên.
+- Ngoài quy tắc FIFO, có thể sử dụng ngược lại là LILO, thêm sau cùng thì lấy ra sau cùng.
+- Trong thuật toán tìm kiếm nhị phân, nên sử dụng bubble sort trước để giảm thời gian tìm kiếm.
